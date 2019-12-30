@@ -1,1 +1,1 @@
-# Smart2T
+# Smart2T - Smart Lock
